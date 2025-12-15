@@ -7,6 +7,6 @@
 * View All Bookings
 * Data Persistence
 
-  💻 Tech Stack :
+💻 Tech Stack :
 *Language: C
 *Data Storage: File Handling (Binary File: bookings.dat)
